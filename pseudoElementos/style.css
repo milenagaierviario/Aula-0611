@@ -1,0 +1,27 @@
+h1::after {
+    content: url(200.webp);
+}
+
+h2::before {
+    content: attr()
+}
+
+h1::first-letter {
+    color: #de58c8;
+    font-size: xx-large;
+}
+
+h2::first-letter {
+    color: #3c2438;
+    font-size: xx-large;
+}
+
+.lorem::first-line {
+    color: #e1a0a0;
+    font-variant: small-caps;
+}
+
+p::selection {
+    color: rgb(157, 64, 64);
+    background: rgb(238, 238, 231);
+}
