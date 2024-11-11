@@ -1,0 +1,35 @@
+div.margem {
+    background: #900;
+    color: #FFF;
+    margin: 10px 5px 20px 12px;
+}
+
+div.borda {
+    border: 15px;
+}
+
+div.margemInterna {
+    background: #900;
+    color: #FFF;
+}
+.margem2 {
+    color:aquamarine ;
+    background-color: rgb(113, 6, 6) ;
+    padding: 20px;
+}
+
+.bordathin {
+border: thin solid;
+margin-bottom: 20px;
+}
+
+.bordamedium {
+border: medium solid;
+margin-bottom: 20px;
+}
+
+.bordathick {
+border: thick solid;
+margin-bottom: 20px;
+}
+
